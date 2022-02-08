@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WeightedElement
+comment0.text=\n\ Write\ a\ description\ of\ class\ WeightedElement\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=element\ weight
+comment1.target=WeightedElement(java.lang.Object,\ java.lang.Comparable)
+comment1.text=\n\ Sets\ input\ element\ and\ weight\ to\ instance\ of\ class\n\ \n\ Integer\ Instance\ \:\ (10,10)\n\ String\ Instance\ \:\ ("Ten","Ten")\n
+comment2.params=element
+comment2.target=int\ compareTo(WeightedElement)
+comment2.text=\n\ Compares\ the\ weight\ of\ the\ instance\ to\ another\ instance\ of\ WeightedElement\n\ Integer\ Instance\ \:\ (10,10)\n\ String\ Instance\ \:\ ("Ten","Ten")\n
+numComments=3

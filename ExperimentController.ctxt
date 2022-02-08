@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\nExperiment\ Controller\ tests\ efficiency\ of\ adding\ integers\ and\ strings\ to\ ArrayPriorityQueue\ntests\ efficiency\ of\ calling\ peek\ and\ poll\ methods\ for\ integers,\ strings,\ and\ weighted\ elemetns\n\ Christian\ Hollar\n\ 10/16/2020\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=ExperimentController()
+comment3.params=dataN
+comment3.target=void\ intTest(int)
+comment3.text=\n\ required\ and\ changed\ for\ multiple\ methods\n
+comment4.params=type
+comment4.target=void\ testInt(java.lang.String)
+comment4.text=\n\ test\ for\ peek\ and\ poll\ times\ of\ integers\n\ \n\ accepts\ "poll"\ or\ "peek"\n
+comment5.params=typeTest
+comment5.target=void\ testType(java.lang.String)
+comment5.text=\n\ takes\ "String"\ or\ "Integer"\n\ tests\ for\ addtime\ \n
+comment6.params=dataN
+comment6.target=void\ systemTest(int)
+comment6.text=\n\ runs\ test\ method\ for\ each\ possible\ variation\ numerous\ times\ based\ on\ input\ int\n
+comment7.params=test\ type
+comment7.target=long\ testMethod(java.lang.String,\ java.lang.String)
+comment7.text=\n\ Takes\ "Integer"\ or\ "String"\ in\ first\ slot\n\ Takes\ "peek"\ or\ "poll"\ in\ second\ slot\n\ \n\ tests\ runtime\ of\ peek\ and\ poll\ for\ weighted\ elements\n
+numComments=8
